@@ -3,8 +3,6 @@
 
 I am a blockchain developer in Korea. Intereset in **Core**, **Cryptography**, **Consensus Algorithm**. 
 
-<br />
-
 ## 🔥 Stacks
 
 ### Network 
@@ -25,8 +23,6 @@ Blockchain networks that I have handled so far...
 ![](https://img.shields.io/badge/Frame-Web3js-informational?style=flat&logoColor=white&color=4d0092)
 ![](https://img.shields.io/badge/Frame-Substrate-informational?style=flat&logoColor=white&color=4d0092)
 ![](https://img.shields.io/badge/Frame-Polkadotjs-informational?style=flat&logoColor=white&color=4d0092)
-
-<br />
 
 <!-- ## ✍️ Blog Writing
 
