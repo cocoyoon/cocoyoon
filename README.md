@@ -37,7 +37,7 @@ I am a blockchain developer in Korea. Intereset in **Core**, **Cryptography**, *
 
 [Medium](https://medium.com/@cocoyoon)
 
-
+<br />
 
 ## 📱 Contact me
 
