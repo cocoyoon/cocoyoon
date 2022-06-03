@@ -38,6 +38,6 @@ Blockchain networks that I have handled so far...
 
 ## 📱 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyoun-jeong-066165179/)](https://www.linkedin.com/in/soyoun-jeong-066165179/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cocoYoon0306)](https://twitter.com/cocoYoon0306)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=twitter&logoColor=white&link=https://www.instagram.com/_yoon_ito/)](https://www.instagram.com/_yoon_ito/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyoun-jeong-066165179/)](https://www.linkedin.com/in/soyoun-jeong-066165179/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cocoYoon0306)](https://twitter.com/cocoYoon0306)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_yoon_ito/)](https://www.instagram.com/_yoon_ito/)
