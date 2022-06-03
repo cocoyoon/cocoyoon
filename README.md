@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I am a blockchain developer in Korea. Intereset in **Core**, **Cryptography**, **Consensus Algorithm**. 
+I am a _blockchain developer_. Interest in **Core**, **Cryptography**, **Consensus Algorithm**. 
 
 ## 🔥 Stacks
 
