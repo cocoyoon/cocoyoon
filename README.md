@@ -8,6 +8,7 @@ I am a blockchain developer in Korea. Intereset in **Core**, **Cryptography**, *
 ## 🔥 Stacks
 
 ### Network 
+Blockchain networks that I have handled so far...
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
