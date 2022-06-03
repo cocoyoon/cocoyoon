@@ -3,10 +3,13 @@
 
 I am a blockchain developer in Korea. Intereset in **Core** **Cryptography** **Consensus Algorithm**. 
 
+
+
 ## 🔥 Network experiences
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
+
 
 
 ## 👾 Language/Frame Stacks
@@ -23,6 +26,7 @@ I am a blockchain developer in Korea. Intereset in **Core** **Cryptography** **C
 ![](https://img.shields.io/badge/Frame-Polkadotjs-informational?style=flat&logoColor=white&color=4d0092)
 
 
+
 ## ✍️ Blog Writing
 
 - DEV
@@ -32,6 +36,7 @@ I am a blockchain developer in Korea. Intereset in **Core** **Cryptography** **C
 - Hobby
 
 [Medium](https://medium.com/@cocoyoon)
+
 
 
 ## 📱 Contact me
