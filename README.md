@@ -28,7 +28,7 @@ Blockchain networks that I have handled so far...
 
 <br />
 
-## ✍️ Blog Writing
+<!-- ## ✍️ Blog Writing
 
 - DEV
 
@@ -38,7 +38,7 @@ Blockchain networks that I have handled so far...
 
 [Medium](https://medium.com/@cocoyoon)
 
-<br />
+<br /> -->
 
 ## 📱 Contact me
 
