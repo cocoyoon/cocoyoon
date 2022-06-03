@@ -23,4 +23,4 @@ I am a blockchain developer in Korea.
 
 ## 📱 Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyoun-jeong-066165179/)](https://www.linkedin.com/in/soyoun-jeong-066165179/)
-[![Twitter Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cocoYoon0306)](https://twitter.com/cocoYoon0306)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cocoYoon0306)](https://twitter.com/cocoYoon0306)
