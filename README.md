@@ -1,18 +1,18 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I am a blockchain developer in Korea. Intereset in **Core** **Cryptography** **Consensus Algorithm**. 
+I am a blockchain developer in Korea. Intereset in **Core**, **Cryptography**, **Consensus Algorithm**. 
 
+<br />
 
+## 🔥 Stacks
 
-## 🔥 Network experiences
+> Network 
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
 
-
-
-## 👾 Language/Frame Stacks
+> Langauge/Frame 
 
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
