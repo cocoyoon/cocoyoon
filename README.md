@@ -26,7 +26,7 @@ Blockchain networks that I have handled so far...
 
 ## ✍️ Blog Writing
 
-[DEV.TO]([https://jeongsoyoun.github.io/](https://dev.to/cocoyoon))
+[DEV][https://jeongsoyoun.github.io/](https://dev.to/cocoyoon)
 [Medium](https://medium.com/@cocoyoon)
 
 ## 📱 Contact me
