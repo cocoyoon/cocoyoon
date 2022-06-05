@@ -24,17 +24,10 @@ Blockchain networks that I have handled so far...
 ![](https://img.shields.io/badge/Frame-Substrate-informational?style=flat&logoColor=white&color=4d0092)
 ![](https://img.shields.io/badge/Frame-Polkadotjs-informational?style=flat&logoColor=white&color=4d0092)
 
-<!-- ## ✍️ Blog Writing
+## ✍️ Blog Writing
 
-- DEV
-
-[Github Blog](https://jeongsoyoun.github.io/)
-
-- Hobby
-
+[DEV.TO]([https://jeongsoyoun.github.io/](https://dev.to/cocoyoon))
 [Medium](https://medium.com/@cocoyoon)
-
-<br /> -->
 
 ## 📱 Contact me
 
