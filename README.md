@@ -26,7 +26,7 @@ Blockchain networks that I have handled so far...
 
 ## ✍️ Blog Writing
 
-[DEV](https://dev.to/cocoyoon)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/cocoyoon)](https://dev.to/cocoyoon)
 
 [Medium](https://medium.com/@cocoyoon)
 
