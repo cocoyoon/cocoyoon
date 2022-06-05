@@ -6,7 +6,7 @@ I am a _blockchain developer_. Interest in **Core**, **Cryptography**, **Consens
 ## 🔥 Stacks
 
 ### Network 
-Blockchain networks that I have handled so far...
+Blockchain networks that I have handled so far
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
@@ -28,7 +28,7 @@ Blockchain networks that I have handled so far...
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/cocoyoon)](https://dev.to/cocoyoon)
 
-[Medium](https://medium.com/@cocoyoon)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@cocoyoon)](https://medium.com/@cocoyoon)
 
 ## 📱 Contact me
 
