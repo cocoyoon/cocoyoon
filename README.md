@@ -29,7 +29,7 @@ Blockchain networks that I have handled so far
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/cocoyoon)](https://dev.to/cocoyoon)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@cocoyoon)](https://medium.com/@cocoyoon)
 [![Portfolio](https://img.shields.io/badge/Porfolio-100000?style=for-the-badge&logo=github&logoColor=white&link=https://jeongsoyoun.github.io/)](https://jeongsoyoun.github.io/)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/cocoyoon)](https://linktr.ee/cocoyoon)
+<!-- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/cocoyoon)](https://linktr.ee/cocoyoon) -->
 
 ## 📱 Contact me
 
