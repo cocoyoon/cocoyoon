@@ -2,7 +2,9 @@
 # Hello, folks!
 
 I am currently a _blockchain research engineer_. Interested in **Consensus Algorithm**, **Asynchronous Programming**, **P2P Network**.
-Be curious. Be creative. Be valuable
+- Be curious. 
+- Be creative. 
+- Be valuable
 
 ## 🔥 Stacks
 
