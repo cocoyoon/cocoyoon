@@ -3,9 +3,6 @@
 
 I am currently a _blockchain research engineer_. Interested in **Consensus Algorithm**, **Asynchronous Programming**, **P2P Network**.
 
-Philosophy as a developer
-- Always be curious. Be creative. Be valuable.
-
 ## 🔥 Stacks
 
 ### Network 
