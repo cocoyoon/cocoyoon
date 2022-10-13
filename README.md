@@ -19,10 +19,7 @@ Blockchain networks that I have handled so far
 ![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Frame-Brownie-informational?style=flat&logoColor=white&color=4d0092)
-![](https://img.shields.io/badge/Frame-Web3js-informational?style=flat&logoColor=white&color=4d0092)
 ![](https://img.shields.io/badge/Frame-Substrate-informational?style=flat&logoColor=white&color=4d0092)
-![](https://img.shields.io/badge/Frame-Polkadotjs-informational?style=flat&logoColor=white&color=4d0092)
 
 ## 📍 Archive
 
