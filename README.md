@@ -1,7 +1,7 @@
 
 ## 👋🏻 Welcome
 
-I am a _blockchain research engineer_. Currently, I am developing blocskchain runtime node using **Substrate**. I hae Interest in **Consensus Algorithm**, **Asynchronous Programming**. Also have interest in various field like _Deep Learning_, _Quant_, and _Mobile Application_. **What I want to achieve as a developer is to build what could be valuable to people.**
+I am a _blockchain research engineer_. Currently, I am developing blockchain runtime node using **Substrate**. My interest fields are **Consensus Algorithm**, **Asynchronous Programming**, **Cryptography**, and **Web3**. Also have interest in various field like _Deep Learning_ and _Quant_. **What I want to achieve as a developer is to build what could be valuable to people.**
 
 ## 🔥 Stacks
 
