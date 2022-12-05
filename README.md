@@ -1,5 +1,5 @@
 
-## 👋🏻 Welcome
+## 👋🏻 Hi, my name is SoYounJeong
 
 I am a _blockchain research engineer_. Currently, I am developing blockchain runtime node using **Substrate**. My interest fields are **Consensus Algorithm**, **Asynchronous Programming**, **Cryptography**, and **Web3**. Also have interest in various field like _Deep Learning_ and _Quant_. **What I want to achieve as a developer is to build what could be valuable to people.** I orginize my thoughts on [HackMD](https://hackmd.io/@_4S152SHS_uXVYn0bwHKpQ) or share knowledge through [Medium](https://medium.com/@cocoyoon). Currently, my main language is **Rust** and develop blockchain node using **Substrate** framework. Check my [Portfolio](https://cocoyoonmind.notion.site/SoYounJeong-facf6f3a91744307978edd2545d5ce8a) to know more about me. 
 
