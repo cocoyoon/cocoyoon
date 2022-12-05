@@ -1,32 +1,7 @@
 
 ## 👋🏻 Welcome
 
-I am a _blockchain research engineer_. Currently, I am developing blockchain runtime node using **Substrate**. My interest fields are **Consensus Algorithm**, **Asynchronous Programming**, **Cryptography**, and **Web3**. Also have interest in various field like _Deep Learning_ and _Quant_. **What I want to achieve as a developer is to build what could be valuable to people.** Check my [Portfolio](https://cocoyoonmind.notion.site/SoYounJeong-facf6f3a91744307978edd2545d5ce8a) to know more about me
-
-## 🔥 Stacks
-
-### Network 
-Blockchain networks that I have handled so far
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
-
-### Langauge/Frame 
-
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Frame-Substrate-informational?style=flat&logoColor=white&color=4d0092)
-
-## 📍 Personal Dev Note
-
-[HackMD](https://hackmd.io/@_4S152SHS_uXVYn0bwHKpQ)
-[Medium](https://medium.com/@cocoyoon)
-
-<!-- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/cocoyoon)](https://linktr.ee/cocoyoon) -->
+I am a _blockchain research engineer_. Currently, I am developing blockchain runtime node using **Substrate**. My interest fields are **Consensus Algorithm**, **Asynchronous Programming**, **Cryptography**, and **Web3**. Also have interest in various field like _Deep Learning_ and _Quant_. **What I want to achieve as a developer is to build what could be valuable to people.** I orginize my thoughts on [HackMD](https://hackmd.io/@_4S152SHS_uXVYn0bwHKpQ) or share knowledge through [Medium](https://medium.com/@cocoyoon). Currently, my main language is **Rust** and develop blockchain node using **Substrate** framework. Check my [Portfolio](https://cocoyoonmind.notion.site/SoYounJeong-facf6f3a91744307978edd2545d5ce8a) to know more about me. 
 
 ## 📱 Contact me
 
