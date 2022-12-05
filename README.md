@@ -23,9 +23,9 @@ Blockchain networks that I have handled so far
 
 ## 📍 Archive
 
-[![HackMD](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=HackMD&logoColor=white&link=https://dev.to/cocoyoon)](https://hackmd.io/@_4S152SHS_uXVYn0bwHKpQ)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@cocoyoon)](https://medium.com/@cocoyoon)
-[![Portfolio](https://img.shields.io/badge/Porfolio-100000?style=for-the-badge&logo=github&logoColor=white&link=https://jeongsoyoun.github.io/)](https://cocoyoonmind.notion.site/SoYounJeong-facf6f3a91744307978edd2545d5ce8a)
+![HackMD](https://hackmd.io/@_4S152SHS_uXVYn0bwHKpQ)
+![Medium](https://medium.com/@cocoyoon)
+![Portfolio](https://cocoyoonmind.notion.site/SoYounJeong-facf6f3a91744307978edd2545d5ce8a)
 <!-- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/cocoyoon)](https://linktr.ee/cocoyoon) -->
 
 ## 📱 Contact me
