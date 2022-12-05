@@ -1,7 +1,7 @@
 
 ## 👋🏻 Welcome
 
-I am a _blockchain research engineer_. Currently, I am developing blockchain runtime node using **Substrate**. My interest fields are **Consensus Algorithm**, **Asynchronous Programming**, **Cryptography**, and **Web3**. Also have interest in various field like _Deep Learning_ and _Quant_. **What I want to achieve as a developer is to build what could be valuable to people.**
+I am a _blockchain research engineer_. Currently, I am developing blockchain runtime node using **Substrate**. My interest fields are **Consensus Algorithm**, **Asynchronous Programming**, **Cryptography**, and **Web3**. Also have interest in various field like _Deep Learning_ and _Quant_. **What I want to achieve as a developer is to build what could be valuable to people.** Check my [Portfolio](https://cocoyoonmind.notion.site/SoYounJeong-facf6f3a91744307978edd2545d5ce8a) to know more about me
 
 ## 🔥 Stacks
 
@@ -21,11 +21,11 @@ Blockchain networks that I have handled so far
 
 ![](https://img.shields.io/badge/Frame-Substrate-informational?style=flat&logoColor=white&color=4d0092)
 
-## 📍 Archive
+## 📍 Personal Dev Note
 
-![HackMD](https://hackmd.io/@_4S152SHS_uXVYn0bwHKpQ)
-![Medium](https://medium.com/@cocoyoon)
-![Portfolio](https://cocoyoonmind.notion.site/SoYounJeong-facf6f3a91744307978edd2545d5ce8a)
+[HackMD](https://hackmd.io/@_4S152SHS_uXVYn0bwHKpQ)
+[Medium](https://medium.com/@cocoyoon)
+
 <!-- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/cocoyoon)](https://linktr.ee/cocoyoon) -->
 
 ## 📱 Contact me
