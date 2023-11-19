@@ -3,6 +3,6 @@
   - Cryptography
 - Currently develop with:
   - Rust
-  - Substrate**
+  - Substrate
 
 
